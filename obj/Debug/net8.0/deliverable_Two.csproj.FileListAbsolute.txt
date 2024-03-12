@@ -1,0 +1,14 @@
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\bin\Debug\net8.0\deliverable_Two.exe
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\bin\Debug\net8.0\deliverable_Two.deps.json
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\bin\Debug\net8.0\deliverable_Two.runtimeconfig.json
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\bin\Debug\net8.0\deliverable_Two.dll
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\bin\Debug\net8.0\deliverable_Two.pdb
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.AssemblyInfoInputs.cache
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.AssemblyInfo.cs
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.csproj.CoreCompileInputs.cache
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.dll
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\refint\deliverable_Two.dll
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.pdb
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.genruntimeconfig.cache
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\ref\deliverable_Two.dll
