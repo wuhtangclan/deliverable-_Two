@@ -12,3 +12,4 @@ C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net
 C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.pdb
 C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.genruntimeconfig.cache
 C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\ref\deliverable_Two.dll
+C:\Users\wuhta\GrandCircus\Prework\deliverable_Two\deliverable_Two\obj\Debug\net8.0\deliverable_Two.sourcelink.json
